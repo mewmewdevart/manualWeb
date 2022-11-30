@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-	<a href="mewmewdevart.github.io/">See the project web</a> 
+	<a href="https://mewmewdevart.github.io/">See the project web</a> 
 </p>
 
 
