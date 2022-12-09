@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-	<b><i>Larissa manual page</i></b><br>
-     Manual pager utils : an interface to the "larissa" reference manuals
+	<b><i>Larissa's manual page</i></b><br>
+     Manual Page Utils: An interface to Larissa's Manual Portfolio
 </p>
 
 <p align="center">
