@@ -1,5 +1,5 @@
 <h1 align="center">
-	mewmewdevart.github.io
+	Manual Page Web
 </h1>
 
 <p align="center">
@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/mewmewdevart.github.io?color=6272a4" />
-	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/mewmewdevart.github.io?color=6272a4"/>
-	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/mewmewdevart.github.io?color=6272a4"/>
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/manualWeb?color=6272a4" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/manualWeb?color=6272a4"/>
+	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/manualWeb?color=6272a4"/>
 </p>
 
 <p align="center">
-	<a href="https://mewmewdevart.github.io/">See the project web</a> 
+	<a href="https://mewmewdevart.github.io/manualWeb/">See the project web</a> 
 </p>
 
 
